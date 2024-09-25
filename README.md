@@ -1,5 +1,4 @@
 # Explanation
-## Shane Saito
 
 Since I was not allowed to use any built in containers for this problem, I figured that
 a linked list would work well as it can add and remove integers to the top of
