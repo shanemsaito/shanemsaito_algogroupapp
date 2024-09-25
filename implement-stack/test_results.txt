@@ -1,0 +1,10 @@
+test_is_empty (tests.TestIntStack.test_is_empty) ... ok
+test_peek (tests.TestIntStack.test_peek) ... ok
+test_pop (tests.TestIntStack.test_pop) ... ok
+test_push (tests.TestIntStack.test_push) ... ok
+test_size (tests.TestIntStack.test_size) ... ok
+
+----------------------------------------------------------------------
+Ran 5 tests in 0.001s
+
+OK
